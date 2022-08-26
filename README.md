@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋🏾
+#### participator here 👍🏾
 
 <!--
 **participator/participator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on software and system design
+- 💬 Ask me about: Docker (kind of obsessed with it right now)
