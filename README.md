@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on software and system design
-- 💬 Ask me about: Docker (kind of obsessed with it right now)
+- 🔭 I’m currently working on software
+- 💬 Ask me about: AI Systems (kind of obsessed with it right now)
